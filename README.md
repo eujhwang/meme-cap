@@ -8,9 +8,7 @@ Train+Val:
 
 Test:
 
-Images will be available here: 
-
-Will upload entire dataset once I figure out where to upload images.
+Images are available here: https://drive.google.com/file/d/1o1IB6am0HdYS58CEOmmxra3WjJkrn-M1/view?usp=sharing
 
 ## Model
 We used [OpenFlamingo-9B](https://github.com/mlfoundations/open_flamingo) and [MiniGPT4](https://github.com/Vision-CAIR/MiniGPT-4) models for our zero-shot and few-shot experiments. 
